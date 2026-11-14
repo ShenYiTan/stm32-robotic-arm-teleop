@@ -18,3 +18,7 @@ The system employs a distributed control hierarchy:
 
 ### Video 
 https://youtu.be/fqeTW4hTvRw?si=qcoytpYTg6xN4z-_
+
+### CAD
+https://cad.onshape.com/documents/502f7c82745232714e35b467/w/64c8081d1b7d81c2f6074105/e/63d52a12e079b64350ab4d9b
+
